@@ -1,4 +1,9 @@
 # Apprentissage-supervis-KNN-SVM
+
+Dans cet atelier, nous allons travailler sur la base des iris de Fisher. Il s’agit de prédire l’espèce d’iris en
+fonction de différentes caractéristiques végétales. Nous allons utiliser les algorithmes k-plus proches
+voisins (KNN) et Les machines à vecteurs supports (SVM) afin de réaliser notre classification.
+
 Travail à faire : 
 
 
